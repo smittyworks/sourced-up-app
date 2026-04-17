@@ -2,6 +2,10 @@
 
 SourcedUp is a unified feed for independent journalism — one place to follow your favorite independent journalists across Substack, YouTube, Rumble, podcasts and more.
 
+  🔗 https://www.sourcedup.news/
+
+  🔗 https://www.sourcedup.news/directory
+  
   Independent journalism is booming, but keeping up is fragmented. SourcedUp solves that by aggregating content from across platforms into a single chronological feed, with deep links back to the original source.
 
   Key features (roadmap):
@@ -14,6 +18,3 @@ SourcedUp is a unified feed for independent journalism — one place to follow y
 
   Currently in validation phase — collecting early interest before building the full product.
 
-  🔗 https://www.sourcedup.news/
-
-  🔗 https://www.sourcedup.news/directory
