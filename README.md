@@ -5,7 +5,7 @@ SourcedUp is a unified feed for independent journalism — one place to follow y
   🔗 [Sourced Up](https://www.sourcedup.news/)
 
   🔗 [Directory of independent journalists](https://www.sourcedup.news/directory)
-  
+
   Independent journalism is booming, but keeping up is fragmented. SourcedUp solves that by aggregating content from across platforms into a single chronological feed, with deep links back to the original source.
 
   Key features (roadmap):
@@ -18,7 +18,7 @@ SourcedUp is a unified feed for independent journalism — one place to follow y
 
 ## Directory of Included Journalists
 
-[Sourced Up](https://www.sourcedup.news) currently tracks 30 independent journalists across Substack, YouTube, podcasts, and more. Below is the full list, grouped by focus area.
+[Sourced Up](https://www.sourcedup.news) currently tracks 36 independent journalists across Substack, YouTube, podcasts, and more. Below is the full list, grouped by focus area.
 
 ### Investigative & National Security
 
@@ -32,10 +32,12 @@ SourcedUp is a unified feed for independent journalism — one place to follow y
 - [Leighton Woodhouse](https://www.sourcedup.news/directory/leighton-woodhouse) – Focus: Homelessness, Drug Policy, Housing
 - [Ryan Grim](https://www.sourcedup.news/directory/ryan-grim) – Focus: Congress, Progressive Politics
 - [Michael Shellenberger](https://www.sourcedup.news/directory/michael-shellenberger) – Focus: Homelessness, Energy Policy, Media Accountability
+- [Julian Andreone](https://www.sourcedup.news/directory/julian-andreone) – Focus: Money in Politics, Corporate Influence, Congress
+- [Hadi Hoteit](https://www.sourcedup.news/directory/hadi-hoteit) – Focus: War Correspondence, Middle East, Conflict Journalism
 
 ### Politics & Media Criticism
 
-- [Bari Weiss](https://www.sourcedup.news/directory/bari-weiss) – Focus: Free Speech, Campus Culture, Media Bias
+- [Tucker Carlson](https://www.sourcedup.news/directory/tucker-carlson) – Focus: Political Commentary, Foreign Policy, Independent Media
 - [Mehdi Hasan](https://www.sourcedup.news/directory/mehdi-hasan) – Focus: Politics, Foreign Policy
 - [Jesse Singal](https://www.sourcedup.news/directory/jesse-singal) – Focus: Psychology, Social Science, Media Criticism
 - [Andrew Sullivan](https://www.sourcedup.news/directory/andrew-sullivan) – Focus: Politics, Culture, Heterodox Commentary
@@ -44,6 +46,9 @@ SourcedUp is a unified feed for independent journalism — one place to follow y
 - [Russell Brand](https://www.sourcedup.news/directory/russell-brand) – Focus: Politics, Media Criticism, Counter-Establishment
 - [Krystal Ball](https://www.sourcedup.news/directory/krystal-ball) – Focus: Populist Politics, Media Criticism
 - [Saagar Enjeti](https://www.sourcedup.news/directory/saagar-enjeti) – Focus: Right-Wing Populism, Political Commentary
+- [Cenk Uygur](https://www.sourcedup.news/directory/cenk-uygur) – Focus: Progressive Politics, Media Criticism, Corporate Power
+- [Ana Kasparian](https://www.sourcedup.news/directory/ana-kasparian) – Focus: Politics, Media Criticism, Independent Commentary
+- [Katie Halper](https://www.sourcedup.news/directory/katie-halper) – Focus: Politics, US Foreign Policy, Media Criticism
 
 ### Economics & Policy
 
@@ -58,12 +63,16 @@ SourcedUp is a unified feed for independent journalism — one place to follow y
 - [Casey Newton](https://www.sourcedup.news/directory/casey-newton) – Focus: Silicon Valley, Social Media Platforms, Tech Policy
 - [Cory Doctorow](https://www.sourcedup.news/directory/cory-doctorow) – Focus: Digital Rights, Tech Policy, Monopoly Power
 - [Coleman Hughes](https://www.sourcedup.news/directory/coleman-hughes) – Focus: Race, Culture, Politics
-- [Lex Fridman](https://www.sourcedup.news/directory/lex-fridman) – Focus: AI, Science, Long-Form Interviews
 
 ### Video & Podcast
 
 - [Joe Rogan](https://www.sourcedup.news/directory/joe-rogan) – Focus: Culture, Politics, Long-Form Conversation
+- [Lex Fridman](https://www.sourcedup.news/directory/lex-fridman) – Focus: AI, Science, Long-Form Interviews
 - [Tim Dillon](https://www.sourcedup.news/directory/tim-dillon) – Focus: Political Comedy, Media Criticism, American Culture
+- [Dave Smith](https://www.sourcedup.news/directory/dave-smith) – Focus: Libertarian Politics, Foreign Policy, Individual Liberty
+
+### Additional Pages
+
+- [Top Independent Journalists to Follow in 2026](https://www.sourcedup.news/top-independent-journalists) – Journalists grouped by focus area (Investigative, National Security, Politics, Economics & Policy, Media Criticism, Tech & Culture, Civil Liberties, Culture, Video & Podcast)
 
 Currently in validation phase — collecting early interest before building the full product.
-
